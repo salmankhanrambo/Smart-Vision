@@ -1,0 +1,2 @@
+py Object_Detection_in_image.py  runserver
+py Object_detection_in_video.py runserver
